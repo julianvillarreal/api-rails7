@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+1. bundle install
+2. rails db:create
+3. rails s
